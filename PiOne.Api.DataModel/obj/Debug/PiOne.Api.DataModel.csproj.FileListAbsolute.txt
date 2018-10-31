@@ -1,0 +1,12 @@
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\PiOne.Api.DataModel.dll.config
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\PiOne.Api.DataModel.dll
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\PiOne.Api.DataModel.pdb
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\EntityFramework.dll
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\EntityFramework.xml
+D:\Project\NS_PiOne\PiOne.Api.DataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\NS_PiOne\PiOne.Api.DataModel\obj\Debug\PiOne.Api.DataModel.csprojResolveAssemblyReference.cache
+D:\Project\NS_PiOne\PiOne.Api.DataModel\obj\Debug\PiOne.Api.DataModel.csproj.CoreCompileInputs.cache
+D:\Project\NS_PiOne\PiOne.Api.DataModel\obj\Debug\PiOne.Api.DataModel.csproj.CopyComplete
+D:\Project\NS_PiOne\PiOne.Api.DataModel\obj\Debug\PiOne.Api.DataModel.dll
+D:\Project\NS_PiOne\PiOne.Api.DataModel\obj\Debug\PiOne.Api.DataModel.pdb

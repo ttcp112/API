@@ -1,0 +1,18 @@
+﻿using PiOne.Api.Core.Response;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PiOne.Api.Business.DTO
+{
+    public class MemberLocationDTO
+    {
+        public string ID { get; set; }
+        public string MerchantID { get; set; }
+        public string StoreID { get; set; }
+        public string StoreName { get; set; }
+        public string ImageURL { get; set; }
+    }
+}
